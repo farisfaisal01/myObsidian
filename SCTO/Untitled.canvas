@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"90cec71e9bb2b6e7","x":-87,"y":-317,"width":250,"height":60,"type":"text","text":"Text Summarization"},
+		{"id":"09dce2c0cde093ab","x":-162,"y":-140,"width":400,"height":400,"type":"file","file":"SCTO/__Papers/Automatic_Text_Summarization_for_Malay_News_Documents_Using_Latent_Dirichlet_Allocation_and_Sentence_Selection_Algorithm.pdf"},
+		{"id":"a52056f02595ba82","x":-480,"y":-317,"width":250,"height":60,"type":"text","text":"Word Sense Disambiguation"},
+		{"id":"2cfe3f8177ab86ed","x":-87,"y":-480,"width":250,"height":60,"type":"text","text":"Sentiment Analysis"},
+		{"id":"724de716fa0bc777","x":-630,"y":-140,"width":400,"height":300,"type":"file","file":"SCTO/__Media/word-sense-disambiguation-mc-slide1.png"},
+		{"id":"f234ca8061be69f5","x":-1300,"y":-580,"width":620,"height":370,"type":"text","text":"<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/bJQ24a1HYyU?si=b-o3ZdIaKHSJpRdb\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"}
+	],
+	"edges":[
+		{"id":"451015f7d3328efb","fromNode":"a52056f02595ba82","fromSide":"right","toNode":"90cec71e9bb2b6e7","toSide":"left"},
+		{"id":"1a6b4807e1b14f65","fromNode":"90cec71e9bb2b6e7","fromSide":"bottom","toNode":"09dce2c0cde093ab","toSide":"top"},
+		{"id":"b5ac78a40d54bad7","fromNode":"a52056f02595ba82","fromSide":"top","toNode":"2cfe3f8177ab86ed","toSide":"left"},
+		{"id":"cae3e019ff7aa507","fromNode":"a52056f02595ba82","fromSide":"bottom","toNode":"724de716fa0bc777","toSide":"top"},
+		{"id":"1bbab395527647cf","fromNode":"a52056f02595ba82","fromSide":"left","toNode":"f234ca8061be69f5","toSide":"right"}
+	]
+}

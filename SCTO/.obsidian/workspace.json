@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "3cc9fa773ffd466b",
+    "type": "split",
+    "children": [
+      {
+        "id": "5fffb64efcd7cd68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf22e3d08bfe55e9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "SCTO/Excalidraw/SLR github.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dbd712de4edab637",
+    "type": "split",
+    "children": [
+      {
+        "id": "0aa880d664b3487d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "beed747a3e106756",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ab7ff4ce2560343f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "excal",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "463f7066e1cb2d07",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5851b92d8d32a0cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7a417b8de683109",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3069f8b67fc2373f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SCTO/Excalidraw/SLR github.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "68cbade19d268023",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SCTO/Excalidraw/SLR github.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c7dd50ff0dc83f6c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6f92963bf73bec59",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SCTO/Excalidraw/SLR github.md"
+              }
+            }
+          },
+          {
+            "id": "6333a841e1915441",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "dbfolder:Create a new database table": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "bf22e3d08bfe55e9",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "SCTO/Canvas/Start here.canvas",
+    "SCTO/Canvas/Readme canvas.md",
+    "SCTO/Mind Map/Readme Mind map.md",
+    "SCTO/Mind Map/Mind mapping.md",
+    "SCTO/Mind Map/IoT blockchain.md",
+    "SCTO/Mind Map/Check box.md",
+    "SCTO/Dataview/Dataview 1a.md",
+    "SCTO/Dataview/≡ƒæô List of Papers.md",
+    "SCTO/Dataview/Dataview 1.md",
+    "SCTO/1∩╕ÅΓâú Primary Sources/Connell 1964.md",
+    "SCTO/1∩╕ÅΓâú Primary Sources/Shabanov 2022a.md",
+    "SCTO/1∩╕ÅΓâú Primary Sources/Hayrol 2020.md",
+    "SCTO/1∩╕ÅΓâú Primary Sources/Dhekre 2023.md",
+    "SCTO/__Templates/Daily Todo.md",
+    "SCTO/Outline Note.md",
+    "Faris 2024.md",
+    "SCTO/Excalidraw/0 Start.md",
+    "Kanban/My Kanban.md",
+    "Read Paper.md",
+    "SCTO/__Templates/Source Note.md",
+    "SCTO/Exercise 3.md",
+    "SCTO/__Papers/Automatic_Text_Summarization_for_Malay_News_Documents_Using_Latent_Dirichlet_Allocation_and_Sentence_Selection_Algorithm.pdf",
+    "SCTO/__Media/word-sense-disambiguation-mc-slide1.png",
+    "Kanban",
+    "myKanban.md",
+    "Exercise 2/TOC.md",
+    "Exercise 2/Combine.md",
+    "Exercise 2/Chapter 1.md",
+    "Exercise 2/Chapter 3.md",
+    "Pasted Image 20240204111408_094.png",
+    "Untitled 1",
+    "Exercise 2",
+    "SCTO/Canvas/Homepage.canvas",
+    "SCTO/Canvas/Library Dashboard.canvas",
+    "SCTO/Canvas/Book Dashboard.canvas"
+  ]
+}
