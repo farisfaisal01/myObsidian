@@ -11,9 +11,14 @@
             "id": "bf22e3d08bfe55e9",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "canvas",
               "state": {
-                "file": "SCTO/Excalidraw/SLR github.md"
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": -711.7448976316817,
+                  "y": 202.90672022050808,
+                  "zoom": -1.8020094659015162
+                }
               }
             }
           }
@@ -83,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SCTO/Excalidraw/SLR github.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SCTO/Excalidraw/SLR github.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SCTO/Excalidraw/SLR github.md"
+                "file": "Untitled.canvas"
               }
             }
           },
@@ -157,7 +162,18 @@
   },
   "active": "bf22e3d08bfe55e9",
   "lastOpenFiles": [
+    "Pasted image 20240206180826.png",
+    "Pasted image 20240206180750.png",
+    "Pasted image 20240206175430.png",
+    "Pasted image 20240206175501.png",
     "Untitled.canvas",
+    "Untitled Diagram-Page-4.drawio (4).png",
+    "Read Paper.md",
+    "Untitled Diagram-Page-1.drawio (3).png",
+    "Untitled Diagram-Page-1.drawio (2).png",
+    "Pasted image 20240205155526.png",
+    "Faris 2024.md",
+    "SCTO/Excalidraw/SLR github.md",
     "SCTO/Canvas/Start here.canvas",
     "SCTO/Canvas/Readme canvas.md",
     "SCTO/Mind Map/Readme Mind map.md",
@@ -173,10 +189,8 @@
     "SCTO/1∩╕ÅΓâú Primary Sources/Dhekre 2023.md",
     "SCTO/__Templates/Daily Todo.md",
     "SCTO/Outline Note.md",
-    "Faris 2024.md",
     "SCTO/Excalidraw/0 Start.md",
     "Kanban/My Kanban.md",
-    "Read Paper.md",
     "SCTO/__Templates/Source Note.md",
     "SCTO/Exercise 3.md",
     "SCTO/__Papers/Automatic_Text_Summarization_for_Malay_News_Documents_Using_Latent_Dirichlet_Allocation_and_Sentence_Selection_Algorithm.pdf",
@@ -186,7 +200,6 @@
     "Exercise 2/TOC.md",
     "Exercise 2/Combine.md",
     "Exercise 2/Chapter 1.md",
-    "Exercise 2/Chapter 3.md",
     "Pasted Image 20240204111408_094.png",
     "Untitled 1",
     "Exercise 2",
