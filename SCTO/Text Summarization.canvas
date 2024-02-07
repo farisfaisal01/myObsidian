@@ -116,9 +116,9 @@
 		{"id":"28c8c2e8ce8d1f4b","type":"text","text":"Selecting the most important sentences or phrases from the original text and concatenating them to form a summary","x":-461,"y":-1357,"width":301,"height":120},
 		{"id":"02ec00e8f1b48138","type":"text","text":"Generating new sentences that convey the main information and meaning of the original text in a concise and coherent way","x":-120,"y":-1357,"width":317,"height":120},
 		{"id":"fd05f3e0189b8c2e","type":"text","text":"Abstractive Summary","x":-87,"y":-1186,"width":250,"height":66},
-		{"id":"2c2136c876ea3733","x":270,"y":-1033,"width":250,"height":60,"type":"text","text":"Input"},
-		{"id":"4795738e3fb76e1a","x":212,"y":-1180,"width":250,"height":60,"type":"text","text":"Single Document"},
-		{"id":"a362b970cf3e3abf","x":520,"y":-1180,"width":250,"height":60,"type":"text","text":"Multi-Document"}
+		{"id":"2c2136c876ea3733","type":"text","text":"Input","x":270,"y":-1033,"width":250,"height":60},
+		{"id":"4795738e3fb76e1a","type":"text","text":"Single Document","x":212,"y":-1180,"width":250,"height":60},
+		{"id":"a362b970cf3e3abf","type":"text","text":"Multi-Document","x":520,"y":-1180,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"8c2ea00712949b0d","fromNode":"90cec71e9bb2b6e7","fromSide":"top","toNode":"aae8dc8f89f6adc9","toSide":"bottom","label":"Definition"},

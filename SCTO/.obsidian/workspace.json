@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Text Summarization.canvas",
                 "viewState": {
-                  "x": -1357.136239285117,
-                  "y": 663.4840015544501,
-                  "zoom": -2.333333333333333
+                  "x": -3844.277148479407,
+                  "y": -1057.886259208663,
+                  "zoom": -1
                 }
               }
             }
@@ -72,7 +72,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5851b92d8d32a0cf",
@@ -88,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Text Summarization.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Text Summarization.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "Text Summarization.canvas"
               }
             }
           },
@@ -160,14 +161,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bf22e3d08bfe55e9",
+  "active": "beed747a3e106756",
   "lastOpenFiles": [
+    "Pasted image 20240206175430.png",
+    "Text Summarization.canvas",
     "Pasted image 20240206185051.png",
     "Pasted image 20240206180826.png",
     "Pasted image 20240206180750.png",
-    "Pasted image 20240206175430.png",
     "Pasted image 20240206175501.png",
-    "Untitled.canvas",
     "Untitled Diagram-Page-4.drawio (4).png",
     "Read Paper.md",
     "Untitled Diagram-Page-1.drawio (3).png",
@@ -201,7 +202,6 @@
     "Exercise 2/TOC.md",
     "Exercise 2/Combine.md",
     "Exercise 2/Chapter 1.md",
-    "Pasted Image 20240204111408_094.png",
     "Untitled 1",
     "Exercise 2",
     "SCTO/Canvas/Homepage.canvas",
