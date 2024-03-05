@@ -15,9 +15,9 @@
               "state": {
                 "file": "Text Summarization.canvas",
                 "viewState": {
-                  "x": -3844.277148479407,
-                  "y": -1057.886259208663,
-                  "zoom": -1
+                  "x": -1903.9922065292058,
+                  "y": -788.4338179551188,
+                  "zoom": -0.583333333333333
                 }
               }
             }
@@ -72,8 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5851b92d8d32a0cf",
@@ -161,7 +160,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "beed747a3e106756",
+  "active": "bf22e3d08bfe55e9",
   "lastOpenFiles": [
     "Pasted image 20240206175430.png",
     "Text Summarization.canvas",
